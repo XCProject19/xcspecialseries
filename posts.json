@@ -1,17 +1,23 @@
 {
 "series":
-[
-
-{
-"title" : "နှောင်ကြိုး",
-"status" : "Ongoing",
-"cover" : "https://1.bp.blogspot.com/-uUrM1g9K7xQ/XWQJgUJGkyI/AAAAAAAAYjU/zYorsFI1anAGvY3mFCVrAsxw0KGgzPaYQCLcBGAs/s300/0.jpg",
-"image" : "https://1.bp.blogspot.com/-pNU6wC9f0OI/Xo9zq3waxuI/AAAAAAAAE2Q/6Kl1qGpkZnUJCzi658ItOOmjmxy4G6VmgCLcBGAsYHQ/s1600/naung_image.png",
-"link" : "https://raw.githubusercontent.com/XCProject19/Series-HnaungKyoe/master/",
+[{
+"title" : "Girls' Only",
+"status" : "All Complete",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
 "tag" : "",
-"vol" : "၁၀၉ ၁၁၀ ဖြစ်နေတဲ့ ဂျီဟွန်း တယောက် ကံကောင်းထောက်မပြီး အလုပ်ရလိုက်ပေမယ့် ကုမ္ပဏီ ဥက္ကဌ က သူအသည်းခွဲခဲ့ဖူးတဲ့ မမကြီး ဖြစ်နေသောအခါ..."
-}
-,
+"vol" : ""
+},
+{
+"title" : "Queen Bee",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-fi1h9XdsLxo/X8JqtaJVYyI/AAAAAAAA16M/5vxKXPdizW4uh7N1wlasNbXByKUeJ6jBQCLcBGAsYHQ/s0/001.jpeg",
+"image" : "https://1.bp.blogspot.com/-Rfq05pbWrsE/X8JsrZeT7XI/AAAAAAAA17g/oQijRs7JV5E5lblBMFvjEuAhqNJukENmwCLcBGAsYHQ/s0/queenbeecover.png",
+"link" : "https://raw.githubusercontent.com/XCProject19/xcomic/main/QueenBee/",
+"tag" : "",
+"vol" : "Will Junie be able to touch Darla the way Darla touches him?"
+},
 {
 "title" : "My Kingdom",
 "status" : "နေ့စဉ်",
@@ -24,19 +30,7 @@
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
 "
 }
-,
-
-{
-"title" : "The Widow",
-"status" : "နေ့စဉ်",
-"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
-"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/",
-"tag" : "",
-"vol" : ""
-}
- ,
- {
+,{
 "title" : "တိတ်တခိုး",
 "status" : "Ongoing",
 "cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
